@@ -38,7 +38,7 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#43a16a"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
+author: Britne Hackett
   name: Some Person
 
 # Select your active Social Network Links.
@@ -69,9 +69,9 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
+  facebook: goldenlife
   github: daattali
-  twitter: daattali
+  twitter: britnelikecafe
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
